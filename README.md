@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- [x] Create Github Profile
+- [ ] Make it interesting 🤔 
+
 <!--
 **jwilksy/jwilksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
